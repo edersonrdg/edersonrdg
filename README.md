@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edersonrdg&hide=contribs,prs)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edersonrdg)](https://github.com/edersonrdg/github-readme-stats)
 
 <!--
 **edersonrdg/edersonrdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
