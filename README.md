@@ -13,6 +13,7 @@ Alguns exemplos de tecnologias e abilidades que gosto de utilizar.
 
 | Exemplos | Techs |
 | ------------- |:-------------:|
+| Frameworks | nodejs, reactjs |
 | Microframeworks | Expess |
 | Orms  | mongoose, typeorm, knex |
 | Dbs  | Mongodb, postgres, sqlite |
