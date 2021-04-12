@@ -11,12 +11,12 @@ Aqui estão alguns dos meus interesses:
 
 Alguns exemplos de tecnologias e abilidades que gosto de utilizar.
 
-| Nodejs  | Reactjs |
+| Nodejs |
 | ------------- |:-------------:|
-| Expess   | right foo     |
-| Orms (mongoose, typeorm, knex)| |
-| Arquiteturas (Solid, clean architecture, ddd)|    |
-| Jest (Utilização de tdd) |     |
+| Expess  |
+| Orms (mongoose, typeorm, knex) |
+| Arquiteturas (Solid, clean architecture, ddd) |
+| Jest (Utilização de tdd) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonrdg&layout=compact&theme=dark)](https://github.com/edersonrdg/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edersonrdg&show_icons=true&theme=dark)](https://github.com/edersonrdg/github-readme-stats)
