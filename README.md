@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-edersonsl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edersonsl/)](https://www.linkedin.com/in/edersonsl/)
 [![Gmail Badge](https://img.shields.io/badge/-edersonrodrigo31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edersonrodrigo31@gmail.com)](mailto:edersonrodrigo31@gmail.com)
 
+---
 Aqui estão alguns dos meus interesses:
 
 * Amo trabalhar com desenvolvimento backend ultilizando javascript. Então utilizo o framework **NodeJs** pararealização de meus projetos. No desenvolvimento sempre busco utilizar diferentes ferramentas.
