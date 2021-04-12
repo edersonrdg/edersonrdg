@@ -16,8 +16,9 @@ Alguns exemplos de tecnologias e abilidades que gosto de utilizar.
 | Microframeworks | Expess |
 | Orms  | mongoose, typeorm, knex |
 | Dbs  | Mongodb, postgres, sqlite |
-| Arquiteturas | Solid, clean architecture, ddd|
-| testes | jest, supertest, Utilização de tdd|
+| Arquiteturas | Solid, clean architecture, ddd |
+| testes | jest, supertest, Utilização de tdd |
+| Interface | html, css, reactjs |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonrdg&layout=compact&theme=dark)](https://github.com/edersonrdg/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edersonrdg&show_icons=true&theme=dark)](https://github.com/edersonrdg/github-readme-stats)
