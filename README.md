@@ -1,17 +1,17 @@
-### Bem vindos ao meu perfil 👋
+### Welcome to my profile 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-edersonsl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edersonsl/)](https://www.linkedin.com/in/edersonsl/)
 [![Gmail Badge](https://img.shields.io/badge/-edersonrodrigo31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edersonrodrigo31@gmail.com)](mailto:edersonrodrigo31@gmail.com)
 
 ---
-Aqui estão alguns dos meus interesses:
+Here are some of my interests:
 
-* Amo trabalhar com desenvolvimento backend ultilizando javascript. Então utilizo o framework **NodeJs** pararealização de meus projetos. No desenvolvimento sempre busco utilizar diferentes ferramentas.
-* Estudo sobre desenvolvimento frontend, tambem em javascript utilizando **reactjs**.
-* Sonho em um dia ter uma carreira sólida como desenvolvedor. Buscando sempre conhecimentos diferentes e atualizados.
+* I love working with backend development using javascript. Then I use the **NodeJs** framework to carry out my projects. In development I always try to use different tools.
+* Frontend development study, also in javascript using **reactjs**.
+* I dream of one day having a solid career as a developer. Always looking for different and updated knowledge.
 
 ---
-Alguns exemplos de tecnologias e abilidades que gosto de utilizar.
+Some examples of the main technologies and abilities that I like to use.
 
 | Exemplos | Techs |
 | ------------- |:-------------:|
@@ -19,9 +19,9 @@ Alguns exemplos de tecnologias e abilidades que gosto de utilizar.
 | Microframeworks | Expess |
 | Orms  | mongoose, typeorm, knex |
 | Dbs  | Mongodb, postgres, sqlite |
-| Arquiteturas | Solid, clean architecture, ddd |
-| testes | jest, supertest, Utilização de tdd |
-| Interface | html, css, reactjs |
+| architectures | Solid, clean architecture, ddd |
+| tests | jest, supertest, use of tdd |
+| Interfaces | html, css, reactjs |
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonrdg&layout=compact&theme=dark)](https://github.com/edersonrdg/github-readme-stats)
