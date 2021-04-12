@@ -9,6 +9,7 @@ Aqui estão alguns dos meus interesses:
 * Estudo sobre desenvolvimento frontend, tambem em javascript utilizando **reactjs**.
 * Sonho em um dia ter uma carreira sólida como desenvolvedor. Buscando sempre conhecimentos diferentes e atualizados.
 
+---
 Alguns exemplos de tecnologias e abilidades que gosto de utilizar.
 
 | Exemplos | Techs |
@@ -20,21 +21,8 @@ Alguns exemplos de tecnologias e abilidades que gosto de utilizar.
 | Arquiteturas | Solid, clean architecture, ddd |
 | testes | jest, supertest, Utilização de tdd |
 | Interface | html, css, reactjs |
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonrdg&layout=compact&theme=dark)](https://github.com/edersonrdg/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edersonrdg&show_icons=true&theme=dark)](https://github.com/edersonrdg/github-readme-stats)
 
-<!--
-**edersonrdg/edersonrdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
