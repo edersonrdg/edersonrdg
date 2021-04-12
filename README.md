@@ -9,8 +9,18 @@ Aqui estão alguns dos meus interesses:
 * Estudo sobre desenvolvimento frontend, tambem em javascript utilizando **reactjs**.
 * Sonho em um dia ter uma carreira sólida como desenvolvedor. Buscando sempre conhecimentos diferentes e atualizados.
 
+Alguns exemplos de tecnologias e abilidades que gosto de utilizar.
+
+| Nodejs  | Reactjs |
+| ------------- |:-------------:|
+| Expess   | right foo     |
+| Orms (mongoose, typeorm, knex)| |
+| Arquiteturas (Solid, clean architecture, ddd)|    |
+| Jest (Utilização de tdd) |     |
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonrdg&layout=compact&theme=dark)](https://github.com/edersonrdg/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edersonrdg&show_icons=true&theme=dark)](https://github.com/edersonrdg/github-readme-stats)
+
 <!--
 **edersonrdg/edersonrdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
