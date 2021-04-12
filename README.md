@@ -1,6 +1,6 @@
 ### Bem vindos ao meu perfil 👋
 
-## Aqui estão alguns dos meus interesses:
+Aqui estão alguns dos meus interesses:
 
 * Amo trabalhar com desenvolvimento backend ultilizando javascript. Então utilizo o framework <span>NodeJs</span> pararealização de meus projetos. No desenvolvimento sempre busco  utilizar diferentes ferramentas.
 * Estudo sobre desenvolvimento frontend, tambem em javascript utilizando reactjs.
