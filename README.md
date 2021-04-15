@@ -16,7 +16,7 @@ Some examples of the main technologies and abilities that I like to use.
 | Exemplos | Techs |
 | ------------- |:-------------:|
 | Frameworks | nodejs, reactjs |
-| Routes | Expessjs, react-router-dom |
+| Web servers | Expessjs |
 | Orms  | mongoose, typeorm, knex |
 | Dbs  | Mongodb, postgres, sqlite |
 | architectures | Solid, clean architecture, ddd |
