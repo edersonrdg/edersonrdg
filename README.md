@@ -15,7 +15,7 @@ Some examples of the main technologies and abilities that I like to use.
 
 | Exemplos | Techs |
 | ------------- |:-------------:|
-| Frameworks | nodejs, reactjs |
+| Frameworks | nodejs, reactjs, nestjs |
 | Web servers | Expessjs |
 | Orms  | mongoose, typeorm, knex |
 | Dbs  | Mongodb, postgres, sqlite |
