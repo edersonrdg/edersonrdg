@@ -15,13 +15,15 @@ Some examples of the main technologies and abilities that I like to use.
 
 | Exemplos | Techs |
 | ------------- |:-------------:|
+| languages | Javascript, Typescript |
 | Frameworks | nodejs, reactjs, nestjs |
 | Web servers | Expessjs |
 | Orms  | mongoose, typeorm, knex |
 | Dbs  | mysql, Mongodb, postgres, sqlite |
 | architectures | Solid, clean architecture, ddd |
 | tests | jest, supertest, use of tdd |
-| Interfaces | html, css, reactjs |
+| Interfaces | html, css, reactjs, styled-components |
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonrdg&layout=compact&theme=dark)](https://github.com/edersonrdg/github-readme-stats)
