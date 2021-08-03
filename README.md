@@ -19,10 +19,11 @@ Some examples of the main technologies and abilities that I like to use.
 | Frameworks | nodejs, reactjs, nestjs |
 | Web servers | Expessjs |
 | Orms  | mongoose, typeorm, knex |
-| Dbs  | mysql, Mongodb, postgres, sqlite |
-| architectures | Solid, clean architecture, ddd |
+| Dbs  | mysql, Mongodb, postgres, sqlite, firestore |
+| architectures | Solid, clean architecture, ddd, Rest |
 | tests | jest, supertest, use of tdd |
 | Interfaces | html, css, reactjs, styled-components |
+| Others | Documentation - Swagger, Docker, Docker-compose |
 
 ---
 
